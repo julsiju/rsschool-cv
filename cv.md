@@ -11,6 +11,12 @@
 
 **Linkedin:**  [**julia-bazhok**](https://www.linkedin.com/in/julia-bazhok-226a8852/)
 
+## **Projects:**
+
+* My cv-page **<https://julsiju.github.io/rsschool-cv/cv>**
+
+* My boardgame **Archaeologists from Palesse** [**Instagram**](https://www.instagram.com/paleskija_arxeolagi/)
+
 ## **About myself:**
 
 A few years ago I created and administrated several WordPress web pages. I have also written articles for these web pages. It was about the unique Belarusian board game [**Archaeologists from Palesse**](https://boardgameby.wordpress.com/2017/04/11/paleskiya-arheolagi/), which we created with my friends.
@@ -67,8 +73,3 @@ let userName = prompt ('Enter your login', '');
 * **Belarusian** - First native
     * russian - Second native
 
-## **Projects:**
-
-* My cv-page **<https://julsiju.github.io/rsschool-cv/cv>**
-
-* My boardgame **Archaeologists from Palesse** [**Instagram**](https://www.instagram.com/paleskija_arxeolagi/)
