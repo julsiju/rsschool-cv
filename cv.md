@@ -1,7 +1,8 @@
 # **Julija Bazhok**
-![This is place for my picture](https://i.pinimg.com/280x280_RS/7e/f8/0f/7ef80f41d121da6f9048770fa22056e3.jpg)
+![This is place for my picture](https://user-images.githubusercontent.com/98241731/172078786-08b5f7f8-ee8d-4b7e-8872-f88c304f49ce.jpg)
 
 ## **Contacts:**
+
 
 **Email:** omnia.mea.mecum.port@gmail.com
 
