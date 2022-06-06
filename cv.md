@@ -1,6 +1,6 @@
 # **Julija Bazhok**
 ![This is place for my picture](https://i.pinimg.com/280x280_RS/7e/f8/0f/7ef80f41d121da6f9048770fa22056e3.jpg)
-________________________________
+
 ## **Contacts:**
 
 **Email:** omnia.mea.mecum.port@gmail.com
@@ -10,21 +10,20 @@ ________________________________
 **GitHub:** [**julsiju**](https://github.com/julsiju)
 
 **Linkedin:**  [**julia-bazhok**](https://www.linkedin.com/in/julia-bazhok-226a8852/)
-________________________________
+
 ## **About myself:**
 
 A few years ago I created and administrated several wordpress web pages. I have also written articles for these web pages. It was about the unique Belarusian board game [**Archaeologists from Palesse**](https://boardgameby.wordpress.com/2017/04/11/paleskiya-arheolagi/), which we created with my friends.
 ![boardgame](https://sun9-82.userapi.com/c638422/v638422422/16dcf/h_RrbmAWZRQ.jpg)
 
 This game is really a captivating and useful project about history and forgotten knowledge, about archaeology and culture. I still want to keep creating something interesting and educational. So I start to studying html, css, js and more.
-________________________________
 
 ## **Skills:**
+
 * JavaScript Basics
 * HTML, CSS
 * Git, GitHub
 * VS Code
-________________________________
 
 ## **Code example:**
 
@@ -50,7 +49,7 @@ let userName = prompt ('Enter your login', '');
     alert ('I do not know you');
     }
 ```
-________________________________
+
 ## **Courses:**
 
 * Codecademy Course [**Learn JavaScript**](https://www.codecademy.com/learn/introduction-to-javascript) (in progress) 
@@ -60,7 +59,6 @@ ________________________________
 * Skillbox Course [**Введение в программирование**](https://go.skillbox.ru/) (in progress)
 
 
-________________________________
 ## **Languages:**
 
 * **English** - Intermediate/Upper-intermediate
@@ -68,7 +66,7 @@ ________________________________
 * **Ukrainian** - Intermediate/Upper-intermediate
 * **Belarusian** - First native
     * russian - Second native
-________________________________
+
 ## **Projects:**
 
 * My cv-page **<https://julsiju.github.io/rsschool-cv/cv>**
