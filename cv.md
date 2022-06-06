@@ -1,5 +1,5 @@
 # **Julija Bazhok**
-![This is place for my picture]()
+![This is place for my picture](https://i.pinimg.com/280x280_RS/7e/f8/0f/7ef80f41d121da6f9048770fa22056e3.jpg)
 ________________________________
 ## **Contacts:**
 
