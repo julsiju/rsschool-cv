@@ -13,10 +13,10 @@
 
 ## **About myself:**
 
-A few years ago I created and administrated several wordpress web pages. I have also written articles for these web pages. It was about the unique Belarusian board game [**Archaeologists from Palesse**](https://boardgameby.wordpress.com/2017/04/11/paleskiya-arheolagi/), which we created with my friends.
+A few years ago I created and administrated several WordPress web pages. I have also written articles for these web pages. It was about the unique Belarusian board game [**Archaeologists from Palesse**](https://boardgameby.wordpress.com/2017/04/11/paleskiya-arheolagi/), which we created with my friends.
 ![boardgame](https://sun9-82.userapi.com/c638422/v638422422/16dcf/h_RrbmAWZRQ.jpg)
 
-This game is really a captivating and useful project about history and forgotten knowledge, about archaeology and culture. I still want to keep creating something interesting and educational. So I start to studying html, css, js and more.
+This game is really a captivating and useful project about history and forgotten knowledge, about archaeology and culture. I still want to keep creating something interesting and educational. So I started to study html, css, js and more.
 
 ## **Skills:**
 
