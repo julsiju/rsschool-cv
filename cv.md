@@ -60,8 +60,10 @@ let userName = prompt ('Enter your login', '');
 
 * Codecademy Course [**Learn JavaScript**](https://www.codecademy.com/learn/introduction-to-javascript) (in progress) 
 
-* RS Schools Course [**JavaScript/Front-end. Stage 0**](https://rs.school/js-stage0/) (in progress)  
+* RS Schools Course [**JavaScript/Front-end. Stage 0**](https://rs.school/js-stage0/) (in progress)
+
 * JavaScript Manual on [**learn.javascript.ru**](https://learn.javascript.ru/) (in progress)
+
 * Skillbox Course [**Введение в программирование**](https://go.skillbox.ru/) (in progress)
 
 
@@ -70,6 +72,8 @@ let userName = prompt ('Enter your login', '');
 * **English** - Intermediate/Upper-intermediate
 
 * **Ukrainian** - Intermediate/Upper-intermediate
+
 * **Belarusian** - First native
+
     * russian - Second native
 
