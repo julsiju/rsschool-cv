@@ -1,6 +1,116 @@
-/*
-h1 {
-	color: orange;
-	text-align: center;
+html {
+	scroll-behavior: smooth;
+}
+
+@font-face {
+	font-family: Mukta;
+	src: url(assets/fonts/Mukta-Regular.ttf);
+}
+
+@font-face {
+	font-family: Mukta;
+	src: url(assets/fonts/Mukta-ExtraLight.ttf);
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: Mukta;
+	src: url(assets/fonts/Mukta-Bold.ttf);
+	font-weight: 700;
+}
+
+body {
+	font-family: 'Mukta', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.5;
+	color: darkslategray;
+	min-height: 100vh;
+	margin: 0; 
+	padding: 0;
+	padding-left: 30px;
+	background-image: url("./assets/svg/Meteor.svg");
+	background-repeat: repeat-x;
+	background-size: 1440px 88px;
+	background-color:wheat;
 	}
-*/
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+	
+* {
+	box-sizing: border-box;
+}
+
+.header, .main, .footer {
+	border: 1px wheat;
+}
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.main-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+section {
+	width: 50%;
+}
+
+@media (max-width: 768px) {
+	.section {
+		width: 100%;
+	}
+}
+
+.nav-list {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	list-style: none;
+	}
+
+.nav-link {
+	padding: 0 20px;
+	line-height: 50px;
+	font-size: 20px;
+	color: orange;
+	text-decoration: none;
+	transition: .3s;
+}	
+
+.section-item a {
+	color: orange;
+	transition: color 0.5s;
+	text-decoration: none;
+}
+
+.section-item a:hover {
+	color:wheat;
+}
+
+.section-item {
+	position: relative;
+	}
+
+.section-title {
+	font-size: 26px;
+	font-weight: 400;
+	letter-spacing: 5px;
+}
+
+.link {
+	color: orange;
+	transition: color 0.5s;
+	text-decoration: none;
+}
+
+.link:hover {
+	color: #4d2323;
+}
